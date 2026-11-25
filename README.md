@@ -18,6 +18,7 @@
 | `STUDYMATE_RICE.md` | التعليمات الأساسية للمساعد وفق إطار RICE. |
 | `StudyMate_AI_Final_Report_Ruba_AlSamman.docx` | التقرير النهائي وتفاصيل التنفيذ والتجارب والنتائج. |
 | `index.html` | صفحة تعريفية تعرض فكرة المشروع ومراحله ونتائجه. |
+| `my_productivity_kit Ruba Samman .xlsx` | ملف Excel المرفق ضمن مواد المشروع. |
 
 > **تنبيه:** ملف `index.html` صفحة تعريفية، وليس تطبيقًا مستقلًا متصلًا بالذكاء الاصطناعي. تشغيل المساعد يتم من خلال ChatGPT Project.
 
